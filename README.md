@@ -16,12 +16,10 @@
 ## YouTube
 * [Demo Video](https://www.youtube.com/watch?v=YY0_thWA0Is)
 
-## [Joint Conference on Digital Libraries 2017 (JCDL17)](https://2017.jcdl.org/) Short Paper and Poster
-
-* For the short paper "Taking a Book Off the Shelf in a Virtual Library", refer to ```JCDL_2017_paper_171.pdf```.
+## Publication
+* [Short paper](https://ieeexplore.ieee.org/document/7991614) “Taking a Book off the Shelf in a Virtual Library”, In Proceeding of 2017 ACM/IEEE Joint Conference on Digital Libraries, Toronto, Canada, June 19-23, 2017 (pp. 330-331).
 * For the poster "Taking a Book Off the Shelf in a Virtual Library", refer to ```JCDL_2017_poster_171.pdf```.
 
 ## Acknowledgements
-
-* Bill Rogers - Supervisor
-* Sally Jo Cunninghanm - Supervisor
+* Bill Rogers - University of Waikato Supervisor
+* Sally Jo Cunninghanm - University of Waikato Supervisor
