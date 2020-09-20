@@ -21,7 +21,10 @@
 
 ## Publication
 * [Short paper](https://ieeexplore.ieee.org/document/7991614) “Taking a Book off the Shelf in a Virtual Library”, In Proceeding of 2017 ACM/IEEE Joint Conference on Digital Libraries, Toronto, Canada, June 19-23, 2017 (pp. 330-331).
-* For the poster "Taking a Book Off the Shelf in a Virtual Library", refer to ```JCDL_2017_poster_171.pdf```.
+* Poster
+<p align="center">
+  <img src=JCDL_2017_poster_171_image.png>
+</p>
 
 ## Acknowledgements
 * Bill Rogers - University of Waikato Supervisor
